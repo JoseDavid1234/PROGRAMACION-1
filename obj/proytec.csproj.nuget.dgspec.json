@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/jose/jose/programacion/proytec/proytec.csproj": {}
+    "c:\\Users\\yosse\\OneDrive\\Escritorio\\GITHUB-PROGRAMACION\\PROGRAMACION-1\\proytec.csproj": {}
   },
   "projects": {
-    "/home/jose/jose/programacion/proytec/proytec.csproj": {
+    "c:\\Users\\yosse\\OneDrive\\Escritorio\\GITHUB-PROGRAMACION\\PROGRAMACION-1\\proytec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jose/jose/programacion/proytec/proytec.csproj",
+        "projectUniqueName": "c:\\Users\\yosse\\OneDrive\\Escritorio\\GITHUB-PROGRAMACION\\PROGRAMACION-1\\proytec.csproj",
         "projectName": "proytec",
-        "projectPath": "/home/jose/jose/programacion/proytec/proytec.csproj",
-        "packagesPath": "/home/jose/.nuget/packages/",
-        "outputPath": "/home/jose/jose/programacion/proytec/obj/",
+        "projectPath": "c:\\Users\\yosse\\OneDrive\\Escritorio\\GITHUB-PROGRAMACION\\PROGRAMACION-1\\proytec.csproj",
+        "packagesPath": "C:\\Users\\yosse\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\yosse\\OneDrive\\Escritorio\\GITHUB-PROGRAMACION\\PROGRAMACION-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jose/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\yosse\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/jose/.dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
